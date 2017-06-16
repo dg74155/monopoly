@@ -19,3 +19,13 @@
 .hidden {
 	display: none;
 }
+
+/*#chat {
+	position: absolute;
+	}*/
+
+#button {
+	position: relative;
+	left: 125px;
+	top: 25px;
+}
